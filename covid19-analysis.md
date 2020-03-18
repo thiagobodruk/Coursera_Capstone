@@ -1,4 +1,4 @@
-# COVID-19 and the public heal care
+# COVID-19 and the public health care
 
 ## Introduction
 Given the recent COVID-19 global pandemic, several major cities around the world will face infrastructure collapse related to health care, hospitals, and emergency services. At present, the Coronavirus has made thousands of victims around the globe. The World Health Organization reported the following statistics related to the pandemic:
