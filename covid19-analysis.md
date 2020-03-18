@@ -19,11 +19,19 @@ For this project, I'll analyze the top 5 cities around the world, considering th
 ### Cities Population Size
 The cities list will be defined based on the population size of the cities. This data will be used to calculate the infected group size, the patient per hospital rate and the correlation between different cities.
 
+* https://en.wikipedia.org/wiki/List_of_largest_cities
+
 ### COVID-19 infection rate, number of deaths and symptoms
 This data will be used to calculate infection and death rate, compared to the population size, among the different age tiers, symptoms, the number of hospitals and correlation between different cities.
 
+* https://en.wikipedia.org/wiki/Coronavirus_disease_2019
+* https://www.who.int/
+* https://www.bing.com/covid
+
 ### Foursquare Location's API
 The hospitals' locations of the biggest cities around the world will be extracted from the Foursquare API. Those coordinates will be used to plot heatmaps, choropleth maps, and other in-map visualization models.
+
+* https://developer.foursquare.com/docs/api
 
 ### Additional Data
 Additional data may be used to perform specific analysis or dataset processing.
