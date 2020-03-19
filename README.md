@@ -35,3 +35,6 @@ The hospitals' locations of the biggest cities around the world will be extracte
 
 ### Additional Data
 Additional data may be used to perform specific analysis or dataset processing.
+
+## Jupyter Notebook
+You can access the Jupyter Notebook here https://github.com/thiagobodruk/Coursera_Capstone/blob/master/covid-19.ipynb.
