@@ -1,4 +1,4 @@
-# COVID-19 and the public health care around the world
+# Number of hospitals of the biggest cities around the world
 
 ## Introduction
 Given the recent COVID-19 global pandemic, several major cities around the world will face infrastructure collapse related to health care, hospitals, and emergency services. At present, the Coronavirus has made thousands of victims around the globe. The World Health Organization reported the following statistics related to the pandemic:
@@ -11,7 +11,7 @@ Given the recent COVID-19 global pandemic, several major cities around the world
 ## Business Problem
 Based on those statistics, a city with 1 million citizens probably will have 150.000 infected people, who will need specialized health care and, in specific cases, intensive health care. Furthermore, between 20.000 and 50.000 infected people will die due to serious breathing complications.
 
-Are those cities prepared to handle such pandemic? How many hospitals and intensive care services are in major cities around the world? What is the average patient per hospital rate? How do those cities compare to each other? How are the number of hospitals, the population size, and the infection rate related?
+Are those cities prepared to handle such pandemic? How many hospitals and intensive care services are in major cities around the world? What is the average patient per hospital rate? How do those cities compare to each other? How are the number of hospitals and the population size related?
 
 ## Data
 For this project, I'll analyze the top 5 cities around the world, considering the population size. To perform this analysis, the following data will be necessary:
@@ -37,4 +37,7 @@ The hospitals' locations of the biggest cities around the world will be extracte
 Additional data may be used to perform specific analysis or dataset processing.
 
 ## Jupyter Notebook
-You can access the Jupyter Notebook here https://github.com/thiagobodruk/Coursera_Capstone/blob/master/covid-19.ipynb.
+You can access the Jupyter Notebook here https://github.com/thiagobodruk/Coursera_Capstone/blob/master/hospital-cities.ipynb
+
+## Report
+You can access the report here https://github.com/thiagobodruk/Coursera_Capstone/blob/master/hospital-report.pdf
