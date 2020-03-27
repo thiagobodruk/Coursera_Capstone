@@ -41,3 +41,6 @@ You can access the Jupyter Notebook here https://github.com/thiagobodruk/Courser
 
 ## Report
 You can access the report here https://github.com/thiagobodruk/Coursera_Capstone/blob/master/hospital-report.pdf
+
+## Presentation
+You can access the presentation slides here: https://github.com/thiagobodruk/Coursera_Capstone/blob/master/hospital-presentation.pdf
